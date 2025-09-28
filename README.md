@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="300" src="https://i.pinimg.com/1200x/e8/6c/66/e86c665996b5b81e561887c57c519f6f.jpg"  />
 </div>
 
 # Hi 👋, I'm Daker
@@ -68,11 +68,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Daker22f/proyecto1">
+<a href="[https://github.com/Daker22f/proyecto1](https://github.com/Daker22f/RobertCarrasco)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daker22f&repo=proyecto1&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Daker22f/proyecto2">
+<a href="[https://github.com/Daker22f/proyecto2](https://github.com/Daker22f/Curso)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daker22f&repo=proyecto2&theme=tokyonight" />
 </a>
 
@@ -149,7 +149,7 @@
 - 🌱 Learning: **Advanced OpenXR implementations**  
 - 👯 Looking to collaborate on: **Mobile Apps & XR Projects**
 - 💬 Ask me about: **React Native, Unity, Laravel, XR Development**
-- 📫 Reach me: **tu-email@example.com**
+- 📫 Reach me: **abdielcarrasco01@gmail.com**
 
 ---
 
