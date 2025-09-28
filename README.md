@@ -64,22 +64,6 @@
 
 ---
 
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-<a href="[https://github.com/Daker22f/proyecto1](https://github.com/Daker22f/RobertCarrasco)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daker22f&repo=proyecto1&theme=tokyonight" />
-</a>
-
-<a href="[https://github.com/Daker22f/proyecto2](https://github.com/Daker22f/Curso)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daker22f&repo=proyecto2&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
 ## 💻 **What I'm Working With**
 
 <div align="center">
