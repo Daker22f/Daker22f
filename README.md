@@ -27,30 +27,6 @@
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://skillicons.dev/icons?i=cs,cpp,java,javascript,nodejs" alt="C#, C++, Java, JavaScript, Node.js" height="32"> | <img src="https://skillicons.dev/icons?i=react,angular,html,css,js" alt="React, Angular, HTML, CSS, JavaScript" height="32"><br><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="22"> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=php,nodejs" alt="PHP, Node.js" height="32"><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="32"><br><img src="https://img.shields.io/badge/Meta_XR-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="22"> <img src="https://img.shields.io/badge/OpenXR-FF6B35?style=for-the-badge&logo=khronos&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" height="32"><br><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22"> <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" height="32"><br><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="22"> |
 
----
-
-<div align="center">
-
-## 💻 **More detailed** 💻
-
-</div>
-
-<div align="center">
-
-| 🖥️ **Languages** | 🎨 **Frontend & Mobile** | ⚙️ **Backend & Data** | 🥽 **XR/AR & Tools** |
-|:---:|:---:|:---:|:---:|
-| C# | React | Node.js | Unity |
-| C++ | Angular | Laravel | MetaXR |
-| Java | HTML5 | MySQL | OpenXR |
-| JavaScript | CSS3 | MongoDB | Git |
-| PHP | React Native | SQL/NoSQL | GitHub |
-| Python | Expo | MariaDB | Odoo |
-
-</div>
-
-<div align="center">
-<i>🚀 Creating bridges between reality and virtual worlds!</i>
-</div>
 
 ---
 
