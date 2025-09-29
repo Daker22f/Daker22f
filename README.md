@@ -1,8 +1,8 @@
+<!-- ====== Banner superior (apertura) ====== -->
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/1200x/e8/6c/66/e86c665996b5b81e561887c57c519f6f.jpg"  />
+  <!-- Reemplazar src por tu banner superior -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=XR%2FAR%20Developer&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20Unity%20%7C%20React%20Native&descAlignY=55&descSize=25" alt="Top Banner" width="1000" height="250">
 </div>
-
-# Hi 👋, I'm Daker
 
 <div align="center">
   
@@ -17,41 +17,23 @@
 
 ---
 
-## 🛠️ **Tech Arsenal**
-
 <div align="center">
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,javascript,nodejs" />
-
-### **Frontend & Mobile**
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-
-### **Backend & Frameworks**
-<img src="https://skillicons.dev/icons?i=php,nodejs" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
-### **XR/AR Development**
-<img src="https://skillicons.dev/icons?i=unity" />
-<img src="https://img.shields.io/badge/Meta_XR-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenXR-FF6B35?style=for-the-badge&logo=khronos&logoColor=white" />
-
-### **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github" />
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+### 💻 Tech Arsenal 💻
 
 </div>
 
+| Programming | Frontend & Mobile | Backend & Frameworks | XR / AR | Databases | Tools |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://skillicons.dev/icons?i=cs,cpp,java,javascript,nodejs" alt="C#, C++, Java, JavaScript, Node.js" height="32"> | <img src="https://skillicons.dev/icons?i=react,angular,html,css,js" alt="React, Angular, HTML, CSS, JavaScript" height="32"><br><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="22"> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=php,nodejs" alt="PHP, Node.js" height="32"><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="32"><br><img src="https://img.shields.io/badge/Meta_XR-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="22"> <img src="https://img.shields.io/badge/OpenXR-FF6B35?style=for-the-badge&logo=khronos&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" height="32"><br><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22"> <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="22"> | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" height="32"><br><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="22"> |
+
 ---
 
-## 💻 **What I'm Working With**
+<div align="center">
+
+## 💻 **More detailed** 💻
+
+</div>
 
 <div align="center">
 
@@ -70,11 +52,13 @@
 <i>🚀 Creating bridges between reality and virtual worlds!</i>
 </div>
 
-
-
 ---
 
-## 🌐 **Connect With Me**
+<div align="center">
+
+## 🌐 **Connect With Me** 🌐
+
+</div>
 
 <div align="center">
 
@@ -88,7 +72,10 @@
 
 ---
 
-## 💰 **Support My Work**
+<div align="center">
+
+## 💰 **Support My Work** 💰
+</div>
 
 <div align="center">
 
@@ -98,23 +85,11 @@
 
 ---
 
-## 📈 **Activity Graph**
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daker22f&theme=tokyo-night&hide_border=true" />
+  
+## 🎯 **Current Focus** 🎯
+
 </div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daker22f&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
-
-## 🎯 **Current Focus**
 
 - 🔭 Working on: **XR/AR applications with Unity & MetaXR**
 - 🌱 Learning: **Advanced OpenXR implementations**  
@@ -124,13 +99,10 @@
 
 ---
 
-
----
-
+<!-- ====== Banner inferior (cierre) ====== -->
 <div align="center">
-
-### ✨ *"Creating bridges between reality and virtual worlds, one line of code at a time"* ✨
-
+  <!-- Reemplazar src por tu banner inferior, procura que combine con el superior -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=footer&text=Let's%20Build%20XR%20Experiences&fontSize=40&fontColor=fff&animation=twinkling" alt="Bottom Banner" width="1000" height="200">
 </div>
 
 
