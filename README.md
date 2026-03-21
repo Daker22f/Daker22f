@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### 🚀 Full Stack Developer | 🎯 XR/AR Specialist | 🌟 Mobile & Web Expert
+###  Full Stack Developer |  XR/AR Specialist |  Mobile & Web Expert
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Daker22f&label=Profile%20views&color=0e75b6&style=flat" alt="daker22f" />
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 💻 Tech Arsenal 💻
+###  Tech Arsenal 
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 🌐 **Connect With Me** 🌐
+##  **Connect With Me** 
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-## 💰 **Support My Work** 💰
+##  **Support My Work** 
 </div>
 
 <div align="center">
@@ -63,15 +63,15 @@
 
 <div align="center">
   
-## 🎯 **Current Focus** 🎯
+##  **Current Focus** 
 
 </div>
 
-- 🔭 Working on: **XR/AR applications with Unity & MetaXR**
-- 🌱 Learning: **Advanced OpenXR implementations**  
-- 👯 Looking to collaborate on: **Mobile Apps & XR Projects**
-- 💬 Ask me about: **React Native, Unity, Laravel, XR Development**
-- 📫 Reach me: **abdielcarrasco01@gmail.com**
+-  Working on: **XR/AR applications with Unity & MetaXR**
+-  Learning: **Advanced OpenXR implementations**  
+-  Looking to collaborate on: **Mobile Apps & XR Projects**
+-  Ask me about: **React Native, Unity, Laravel, XR Development**
+-  Reach me: **abdielcarrasco01@gmail.com**
 
 ---
 
