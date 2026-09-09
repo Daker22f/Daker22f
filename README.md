@@ -75,7 +75,7 @@
 
 ---
 
-<!-- ====== Banner inferior (cierre) ====== -->
+<!-- ====== Banner inferior (cierre exacto) ====== -->
 <div align="center">
   <!-- Reemplazar src por tu banner inferior, procura que combine con el superior -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=footer&text=Desarrollador%20Full%20Stack%20y%20XR&fontSize=40&fontColor=fff&animation=twinkling" alt="Bottom Banner" width="1000" height="200">
