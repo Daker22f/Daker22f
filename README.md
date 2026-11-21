@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/hero.svg" alt="Abdiel Carrasco · Full Stack · XR/AR · Mobile" width="100%">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Daker22f&label=PROFILE%20VIEWS&color=ffffff&labelColor=0a0a0a&style=for-the-badge" alt="views">
+  <img src="https://komarev.com/ghpvc/?username=Daker22f&label=PROFILE%20VIEWS&color=1f1f1f&style=for-the-badge" alt="views">
   <img src="https://img.shields.io/github/followers/Daker22f?label=FOLLOWERS&style=for-the-badge&color=ffffff&labelColor=0a0a0a" alt="followers">
 </div>
 
