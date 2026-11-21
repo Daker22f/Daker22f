@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" role="img" aria-label="Abdiel Carrasco - Full Stack, XR/AR, Mobile">
+<style>
+text{font-family:'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;letter-spacing:4px}
+.front{fill:#ede9fe} .ext{fill:#5b21b6}
+.mut{fill:#9d97b5;font-weight:500;letter-spacing:3px}
+.acc{fill:#a78bfa;font-weight:600;letter-spacing:7px}
+.mer{fill:none;stroke:#8b5cf6;stroke-opacity:.5;stroke-width:1}
+.lat{fill:none;stroke:#8b5cf6;stroke-opacity:.3;stroke-width:1}
+.rim{fill:url(#g);stroke:#a78bfa;stroke-opacity:.9;stroke-width:1.4}
+.orb{fill:none;stroke:#a78bfa;stroke-opacity:.45;stroke-dasharray:3 6}
+@media (prefers-color-scheme: light){
+ .front{fill:#1e1b4b} .ext{fill:#c4b5fd} .mut{fill:#5b5675} .acc{fill:#6d28d9}
+ .mer,.lat,.orb{stroke:#6d28d9} .rim{stroke:#6d28d9}
+}
+</style>
+<defs>
+<radialGradient id="g" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+</defs>
+
+<text x="34" y="78" font-size="13" class="acc">HOLA, SOY</text>
+<text x="41" y="145" font-size="60" class="ext">ABDIEL</text>
+<text x="40" y="144" font-size="60" class="ext">ABDIEL</text>
+<text x="39" y="143" font-size="60" class="ext">ABDIEL</text>
+<text x="38" y="142" font-size="60" class="ext">ABDIEL</text>
+<text x="37" y="141" font-size="60" class="ext">ABDIEL</text>
+<text x="36" y="140" font-size="60" class="ext">ABDIEL</text>
+<text x="35" y="139" font-size="60" class="ext">ABDIEL</text>
+<text x="34" y="138" font-size="60" class="front">ABDIEL</text>
+
+<text x="41" y="213" font-size="60" class="ext">CARRASCO</text>
+<text x="40" y="212" font-size="60" class="ext">CARRASCO</text>
+<text x="39" y="211" font-size="60" class="ext">CARRASCO</text>
+<text x="38" y="210" font-size="60" class="ext">CARRASCO</text>
+<text x="37" y="209" font-size="60" class="ext">CARRASCO</text>
+<text x="36" y="208" font-size="60" class="ext">CARRASCO</text>
+<text x="35" y="207" font-size="60" class="ext">CARRASCO</text>
+<text x="34" y="206" font-size="60" class="front">CARRASCO</text>
+
+<text x="36" y="252" font-size="15" class="mut">FULL STACK  ·  XR/AR  ·  MOBILE</text>
+
+<g transform="rotate(-20 650 160)">
+ <circle cx="650" cy="160" r="105" class="rim"/>
+ <ellipse cx="650" cy="69.1" rx="52.5" ry="10.5" class="lat"/>
+<ellipse cx="650" cy="107.5" rx="90.9" ry="18.2" class="lat"/>
+<ellipse cx="650" cy="160.0" rx="105.0" ry="21.0" class="lat"/>
+<ellipse cx="650" cy="212.5" rx="90.9" ry="18.2" class="lat"/>
+<ellipse cx="650" cy="250.9" rx="52.5" ry="10.5" class="lat"/>
+
+ <ellipse cx="650" cy="160" rx="105" ry="105" class="mer"><animate attributeName="rx" values="105.0;104.1;101.4;97.0;90.9;83.3;74.2;63.9;52.5;40.2;27.2;13.7;0.0;13.7;27.2;40.2;52.5;63.9;74.2;83.3;90.9;97.0;101.4;104.1;105.0" dur="16s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="650" cy="160" rx="105" ry="105" class="mer"><animate attributeName="rx" values="90.9;83.3;74.2;63.9;52.5;40.2;27.2;13.7;0.0;13.7;27.2;40.2;52.5;63.9;74.2;83.3;90.9;97.0;101.4;104.1;105.0;104.1;101.4;97.0;90.9" dur="16s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="650" cy="160" rx="105" ry="105" class="mer"><animate attributeName="rx" values="52.5;40.2;27.2;13.7;0.0;13.7;27.2;40.2;52.5;63.9;74.2;83.3;90.9;97.0;101.4;104.1;105.0;104.1;101.4;97.0;90.9;83.3;74.2;63.9;52.5" dur="16s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="650" cy="160" rx="105" ry="105" class="mer"><animate attributeName="rx" values="0.0;13.7;27.2;40.2;52.5;63.9;74.2;83.3;90.9;97.0;101.4;104.1;105.0;104.1;101.4;97.0;90.9;83.3;74.2;63.9;52.5;40.2;27.2;13.7;0.0" dur="16s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="650" cy="160" rx="105" ry="105" class="mer"><animate attributeName="rx" values="52.5;63.9;74.2;83.3;90.9;97.0;101.4;104.1;105.0;104.1;101.4;97.0;90.9;83.3;74.2;63.9;52.5;40.2;27.2;13.7;0.0;13.7;27.2;40.2;52.5" dur="16s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="650" cy="160" rx="105" ry="105" class="mer"><animate attributeName="rx" values="90.9;97.0;101.4;104.1;105.0;104.1;101.4;97.0;90.9;83.3;74.2;63.9;52.5;40.2;27.2;13.7;0.0;13.7;27.2;40.2;52.5;63.9;74.2;83.3;90.9" dur="16s" repeatCount="indefinite"/></ellipse>
+
+ <ellipse cx="650" cy="160" rx="165" ry="42" class="orb"/>
+ <circle r="4.5" fill="#c4b5fd">
+  <animateMotion dur="9s" repeatCount="indefinite" path="M 485,160 a165,42 0 1,0 330,0 a165,42 0 1,0 -330,0"/>
+ </circle>
+</g>
+</svg>
