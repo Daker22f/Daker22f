@@ -7,24 +7,11 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/d1.svg" alt="01 · Contribuciones 3D" width="100%">
-  <img src="./profile-3d-contrib/profile-mono.svg" alt="Contribuciones en 3D" width="100%">
-</div>
+
 
 <br>
 
-<div align="center">
-  <img src="./assets/d2.svg" alt="02 · Stack" width="100%">
-  <img src="./assets/stack.svg" alt="C#, Unity, React Native, Laravel, Node.js, PHP, MySQL, MongoDB. También C++, Java, JavaScript, Angular, Expo, Meta XR, OpenXR, Odoo, Git" width="100%">
-</div>
 
-<br>
-
-<div align="center">
-  <img src="./assets/d3.svg" alt="03 · Enfoque actual" width="100%">
-  <img src="./assets/terminal.svg" alt="Enfoque actual: apps XR/AR con Unity y Meta XR, OpenXR avanzado, apps móviles, React Native, Unity, Laravel. Contacto: abdielcarrasco01@gmail.com" width="100%">
-</div>
 
 <br>
 
